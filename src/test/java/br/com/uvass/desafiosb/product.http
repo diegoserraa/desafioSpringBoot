@@ -1,0 +1,4 @@
+### Retornando todos os produtos do h2
+GET http://localhost:8080/product
+Accept: application/json
+###
